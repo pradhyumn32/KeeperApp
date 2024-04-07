@@ -5,3 +5,7 @@
   <li>Designed a user-freindly UI using MaterialUI components for Reactjs. Added icons and transitions for better UX and drop-down feature to the notes.</li>
 </ul>
 <h3>Images are shown below👇.</h3>
+
+![Screenshot 2024-04-07 124950](https://github.com/pradhyumn32/KeeperApp/assets/125976196/aeead26b-ab7e-401d-bb22-7fdc3a5bad6b)
+![Screenshot 2024-04-07 125027](https://github.com/pradhyumn32/KeeperApp/assets/125976196/15b7f82a-ca03-4233-9659-acb005b369ee)
+![Screenshot 2024-04-07 125129](https://github.com/pradhyumn32/KeeperApp/assets/125976196/d022b90c-bf2f-4af0-87f9-b09abb2880d5)
